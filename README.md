@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Fin-tech Application
-- 🌱 I’m currently learning Flutter & Dart / Laravel
+- 🔭 I’m currently working on a PHP Framework similar to Laravel
+<!-- - 🌱 I’m currently learning Flutter & Dart / Laravel -->
 - 👯 I’m looking to collaborate on PHP projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web/Mobile Dev
 - 📫 How to reach me: henry@oracus.ng
+- 🌐 Visit my portfolio: ![henryezeanyim.dev](https://henryezeanyim.dev)
 - 😄 Pronouns: he/his
 <!-- - ⚡ Fun fact: ... -->
 
