@@ -6,7 +6,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web/Mobile Dev
 - 📫 How to reach me: henry@oracus.ng
-- 🌐 Visit my portfolio: ![henryezeanyim.dev](https://henryezeanyim.dev)
+- 🌐 Visit my portfolio: [henryezeanyim.dev](https://henryezeanyim.dev)
 - 😄 Pronouns: he/his
 <!-- - ⚡ Fun fact: ... -->
 
