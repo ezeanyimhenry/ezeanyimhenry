@@ -30,3 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeanyim-henry-3b7360171)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([url](https://twitter.com/ezeanyim_henry?s=21&t=XcP9Sm6yvO-gyTEE2y8n2Q))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ezeanyimhenry/)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ezeanyimhenry&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeanyimhenry&layout=compact&theme=vision-friendly-dark)](https://github.com/ezeanyimhenry/github-readme-stats) 
