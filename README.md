@@ -32,5 +32,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ezeanyimhenry/)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ezeanyimhenry&theme=dark&background=000000)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeanyimhenry&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
