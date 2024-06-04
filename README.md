@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a PHP Framework similar to Laravel
+- 🔭 I’m currently working on a Laravel Livewire Apps
 <!-- - 🌱 I’m currently learning Flutter & Dart / Laravel -->
 - 👯 I’m looking to collaborate on PHP projects
 <!-- - 🤔 I’m looking for help with ... -->
