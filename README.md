@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Laravel Livewire Apps
+- 🔭 I’m currently working on Fintech Apps
 <!-- - 🌱 I’m currently learning Flutter & Dart / Laravel -->
-- 👯 I’m looking to collaborate on PHP projects
+- 👯 I’m looking to collaborate on Laravel/Flutter projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web/Mobile Dev
 - 📫 How to reach me: henry@oracus.ng
